@@ -2,9 +2,13 @@
 node_modules/
 jspm_packages/
 *.log
+dependency-reduced-pom.xml
 
 # Java
 **/target/
 
 # Optional npm cache directory
 .npm
+
+# Editor directories and files
+.idea
